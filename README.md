@@ -7,5 +7,5 @@
 <h1 align="center">DESCRIÇÃO</h1>
 
 <p align="center">Este Projeto simula um aplicativo bancário, 
-na qual é possíve fazer transferência, depositar, receber e sair</p>
+na qual é possíveL fazer transferência, depositar, receber e sair</p>
 
